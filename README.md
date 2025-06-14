@@ -1,7 +1,7 @@
 # Predicting-Ad-Clicks-Using-User-Data
 
 This project aims to develop a predictive logistic regression model to determine whether an internet user will click on an advertisement on a company's website. We will be using a simulated advertising dataset that includes various user features to build and evaluate our model.
-Key Features:
+Key features:
 
 * Exploratory data analysis (EDA) to understand user behavior
 * Feature engineering and preprocessing for model optimization
